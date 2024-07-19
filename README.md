@@ -5,7 +5,7 @@
 ## Взаимодествие клиент-сервер
 Передача данных между сервером и клиентами осуществляется по протоколу UDP. 
 
-![alt text](https://github.com/alldaygooning/lab8/blob/main/readme_images/Client-Server_Interraction_1.png?raw=true)
+![alt text](https://github.com/alldaygooning/lab8/blob/main/readme_images/diagramm_1.png?raw=true)
 
 ## Порты
 Изначально приложение разрабатывалось для работы на сервере helios (Гелиос). На Гелиосе одновременно может быть запущено множество различных программ, каждая из которых может занимать случайный порт. 
